@@ -14,7 +14,7 @@ nav.CriarNovoMenu("barra_01",Menus)
 nav.CriarBarraNavUsuario("barra_01","Home")
 
 let B =new Banner();
-let BannerInfo = ["<h1>compra rapida</h1> <br/> <h3> compre roupas mais rapido...</h3>","<h1>roupas da moda</h1> <br/><h3>moda</h3> <h1>roupa da moda</h1>","<h3>Roupa da marvel</h3"]
+let BannerInfo = ["<h1>Compra rápida</h1> <br/> <h3>E-commerce</h3>","<h1>Lançamentos</h1> <br/><h3>2023</h3>","<h1>Promoção progressiva</h1> <br/> <h3>Outlet</h3>"]
 B.CriarBanner("banner_1",)
 B.ModificaBanner("banner_1",BannerInfo,2)
 
