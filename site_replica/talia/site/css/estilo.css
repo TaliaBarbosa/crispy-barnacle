@@ -216,6 +216,13 @@ footer h4{
     list-style: none;
 
 }
+
+#midia_1 ul li a{
+    float:left;
+    margin-top: -11vh;
+    margin-left: 150vh;
+    list-style: none;
+}
 .socialmidia ul li a img{
     height: 2vh;
 }
